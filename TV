@@ -1,14 +1,53 @@
-駙馬影視,http://fmys.top/fmys.json
-王二小放牛娃,http://tvbox.王二小放牛娃.top/
-OK影視Pro（內）,http://ok321.top/tv
-源碼,https://github.com/liu673cn/box/raw/main/m.json
-飯太硬,http://www.饭太硬.com/tv
-青龍,https://gitee.com/yiwu369/6758/raw/master/%E9%9D%92%E9%BE%99/1.json
-毒盒,https://毒盒.com/tv
-藍天日記,https://gitee.com/lukei7/lib/raw/Luck/%E8%87%AA%E5%BB%BA.json
-RobYang影視,http://www.RobYang.ggff.net/
-聚玩盒子,http://xhztv.top/dc
-裝B影視,https://xn--dkw0c.v.nxog.top/m/?ou=公众号装歌app&mz=index&jar=index&b=装🅱
-蝸牛,https://tv.蜗牛.top/DS
-天微影線,https://qixing.myhkw.com/DC.txt
-電視魔盒,https://chuanshuo.77blog.cn/dc.json
+[{
+		"name": "01、OK影視Pro",
+		"url": "http://ok321.top/tv"
+	},
+	{
+		"name": "02、飯太硬",
+		"url": "http://www.饭太硬.com/tv"
+	},
+	{
+		"name": "03、青龍",
+		"url": "https://gitee.com/yiwu369/6758/raw/master/%E9%9D%92%E9%BE%99/1.json"
+	},
+	{
+		"name": "04、源碼",
+		"url": "https://github.com/liu673cn/box/raw/main/m.json"
+	},
+	{
+		"name": "05、毒盒",
+		"url": "https://毒盒.com/tv"
+	},
+	{
+		"name": "06、藍天日記",
+		"url": "https://gitee.com/lukei7/lib/raw/Luck/%E8%87%AA%E5%BB%BA.json"
+	},
+	{
+		"name": "07、王二小放牛娃",
+		"url": "http://tvbox.王二小放牛娃.top/"
+	},
+	{
+		"name": "08、裝B影視",
+		"url": "https://xn--dkw0c.v.nxog.top/m/?ou=公众号装歌app&mz=index&jar=index&b=装🅱"
+	},
+	{
+		"name": "09、RobYang 影視",
+		"url": "http://www.RobYang.ggff.net/"
+	},
+	{
+		"name": "10、聚玩盒子",
+		"url": "http://xhztv.top/dc"
+	},
+	{
+		"name": "11、蝸牛",
+		"url": "https://tv.蜗牛.top/DS"
+	},
+	{
+		"name": "12、魔盒",
+		"url": "https://chuanshuo.77blog.cn/dc.json"
+	},
+	{
+		"name": "13、沐晨",
+		"url": "https://py.doube.eu.org/static/t4.json"
+	}
+]
